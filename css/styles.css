@@ -110,3 +110,12 @@ a[target="_blank"]::after {
     color: dimgrey;
     margin: 0;
 }
+
+.navigation {
+    position: absolute;
+    right: 7vw;
+    font-size: 23px;
+    text-decoration: underline;
+    color: midnightblue;
+    margin-top: 0;
+}
