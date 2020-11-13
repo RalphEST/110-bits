@@ -1,0 +1,88 @@
+.container-fluid {
+    padding-top: 3vh;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    font-family: 'Source Sans Pro', serif;
+    font-size: 20px;
+}
+
+.title {
+    background-color: lightblue;
+    padding-bottom: 1vh;
+    padding-top: 1vh;
+}
+
+.t-1 {
+    font-size: 40px;
+    margin-left: 10vw;
+    font-weight: bold;
+}
+
+.t-2 {
+    font-size: 60px;
+    font-family: Monaco;
+    margin-left: 10vw;
+    font-weight: bold;
+}
+
+.bits {
+    font-family: Monaco;
+}
+
+.intro {
+    margin-top: 4vh;
+    margin-left: 1vw;
+}
+
+p {
+    font-size: 20px;
+}
+
+.table {
+    width: 70%;
+    font-size: 17px;
+}
+
+td {
+    width: 80%;
+}
+
+th {
+    font-family: Monaco;
+}
+
+.card {
+    width: 60vw;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+
+.week-title {
+    background-color: #EFE0F7;
+    padding-left: 1vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+}
+
+a[target="_blank"]::after {
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+    margin: 0px 3px 0px 5px;
+}
+
+.card-title {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.click-row:hover {
+    background-color: whitesmoke;
+    text-decoration: underline;
+}
+
+.back {
+    position: absolute;
+    right: 1vw;
+    margin-top: 1vh;
+}
