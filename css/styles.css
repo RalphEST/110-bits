@@ -13,13 +13,13 @@
 }
 
 .t-1 {
-    font-size: 40px;
+    font-size: 35px;
     margin-left: 10vw;
     font-weight: bold;
 }
 
 .t-2 {
-    font-size: 60px;
+    font-size: 50px;
     font-family: Monaco;
     margin-left: 10vw;
     font-weight: bold;
@@ -30,7 +30,7 @@
 }
 
 .intro {
-    margin-top: 4vh;
+    margin-top: 2vh;
     margin-left: 1vw;
 }
 
@@ -43,12 +43,16 @@ p {
     font-size: 17px;
 }
 
-td {
+.table td {
     width: 80%;
+    padding-top: 1.2vh;
+    padding-bottom: 1.2vh;
 }
 
-th {
+.table th {
     font-family: Monaco;
+    padding-top: 1.2vh;
+    padding-bottom: 1.2vh;
 }
 
 .card {
@@ -85,4 +89,11 @@ a[target="_blank"]::after {
     position: absolute;
     right: 1vw;
     margin-top: 1vh;
+}
+
+.table-comment {
+    font-size: 15px;
+    font-style: italic;
+    color: dimgrey;
+    margin: 0;
 }
