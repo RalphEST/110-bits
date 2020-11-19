@@ -6,6 +6,12 @@
     font-size: 20px;
 }
 
+.intro-p {
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 19px;
+}
+
 .title {
     background-color: lightblue;
     padding-bottom: 1vh;
@@ -17,7 +23,7 @@
 }
 
 .t-1 {
-    font-size: 35px;
+    font-size: 25px;
     margin-left: 10vw;
     font-weight: bold;
 }

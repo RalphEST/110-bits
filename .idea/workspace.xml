@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c836d4-4250-4062-8f19-964d40ed6f60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/imgs/statland_map.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +52,7 @@
       <updated>1605252133322</updated>
       <workItem from="1605252134405" duration="16873000" />
       <workItem from="1605674736551" duration="13000" />
-      <workItem from="1605800146790" duration="1001000" />
+      <workItem from="1605800146790" duration="2033000" />
     </task>
     <servers />
   </component>
@@ -61,9 +63,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="237" width="604" height="548" key="find.popup" timestamp="1605265769091">
-      <screen x="0" y="23" width="1680" height="978" />
+    <state x="488" y="237" width="604" height="548" key="find.popup" timestamp="1605805602016">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="488" y="237" width="604" height="548" key="find.popup/1680.0.2560.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1605805602016" />
     <state x="488" y="237" width="604" height="548" key="find.popup/1680.23.2560.1057/0.23.1680.978@0.23.1680.978" timestamp="1605265769091" />
     <state x="542" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1605255787020">
       <screen x="0" y="23" width="1680" height="978" />
