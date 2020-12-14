@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c836d4-4250-4062-8f19-964d40ed6f60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/imgs/statland_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/rpdt_section_descriptions.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,7 +54,10 @@
       <updated>1605252133322</updated>
       <workItem from="1605252134405" duration="16873000" />
       <workItem from="1605674736551" duration="13000" />
-      <workItem from="1605800146790" duration="2033000" />
+      <workItem from="1605800146790" duration="2641000" />
+      <workItem from="1606678713587" duration="465000" />
+      <workItem from="1606679616786" duration="133000" />
+      <workItem from="1607873127145" duration="2421000" />
     </task>
     <servers />
   </component>
